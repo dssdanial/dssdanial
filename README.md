@@ -16,6 +16,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+
+
+  ![Snake animation](https://github.com/dssdanial/dssdanial/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=dssdanial&icon=0&color=1)](https://visitcount.itsvg.in)
 

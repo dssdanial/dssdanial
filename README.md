@@ -10,16 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dssdanial&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dssdanial&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dssdanial&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-  ![Snake animation](https://github.com/dssdanial/dssdanial/blob/output/github-contribution-grid-snake.svg)
 
 
 ---

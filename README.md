@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dssdanial&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-
+![Snake animation](https://github.com/dssdanial/dssdanial/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dssdanial&icon=0&color=1)](https://visitcount.itsvg.in)

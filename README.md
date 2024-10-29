@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on the Navigation and Control of Mobile-robots<br>👯 I’m looking to collaborate on the edge of technology in Robotics<br>🌱 I’m currently learning ML, ROS 1-2, Robot Dynamics Control, and CI/CD<br> pipelines<br>💬 Ask me about Navigation and Control topics<br>⚡ Fun fact: The real name for a hashtag is an octothorpe
+🔭 I’m currently working on the VI-SLAM, Navigation and Control of Mobile-robots<br>👯 I’m looking to collaborate on the edge of technology in Robotics and Automation<br>🌱 I’m currently learning ML, ROS 1-2, Robot Dynamics Control, and CI/CD<br> pipelines<br>💬 Ask me about Navigation and Control topics<br>⚡ Fun fact: The real name for a hashtag is an octothorpe
 
 
 # 💻 Tech Stack:
